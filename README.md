@@ -1,8 +1,9 @@
 Objects/Methods used: Date, getMonth, String, padStart, console.log, getDate, getFullYear, document.getElementById, textContent, Number, Number.isNaN, Number.isInteger, innerHTML, toFixed
 
-https://jonets.github.io/484HW9/
+Github Pages: https://jonets.github.io/484HW9/
 
-Path to Screenshot of Page:
+Screenshot of Page: https://github.com/JonETS/484HW9/blob/main/484HW9_ScreenShot.png
+
 
 The easiest part was implementing conditionals, if/else, since its the same as any other language.
 The hardest part was displaying to the page, needing to get the id of elements and having to integrate some html into the statements to get line breaks.
